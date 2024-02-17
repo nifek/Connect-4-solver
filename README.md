@@ -1,5 +1,5 @@
 # Connect-4-solver
-A Connect 4 strong solver implemented in Java 
+A strong solver of Connect 4 implemented in Java 
 
 Available commands:
 
