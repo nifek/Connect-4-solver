@@ -1,0 +1,7 @@
+Total positions: 1415
+Took 32608.8608039 seconds, had to search 113064174467 positions
+Positions searched / second: 3467283,7897323170 
+
+Total positions: 5678
+Took 52070.05459 seconds, had to search 175810152289 positions
+Positions searched / second: 3376415,7474642660 
